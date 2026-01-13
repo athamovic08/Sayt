@@ -50,7 +50,7 @@ const App = () => {
 
 
 
-      <div className='flex justify-center items-center gap-9'>
+      <di v className='flex justify-center items-center gap-9'>
 
         <div>
         <h2 className='text-xl'>Effortless Validation for</h2>
@@ -66,10 +66,10 @@ const App = () => {
           <h2 className='text-xl'>Alterationists</h2>
           <p className='text-xl'>If you are looking for a new way to promote your business <br /> that won’t cost you more money, </p>
         </div></div>
-<div>
-  <img src="Sayt/src/assets/amico.png" alt="" />
-</div>
-      </div>
+        <div>
+         <img src="Sayt/src/assets/amico.png" alt="" />
+        </div>
+      </di>
 
     </div>
   )
